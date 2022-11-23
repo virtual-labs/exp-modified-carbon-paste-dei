@@ -11,8 +11,9 @@ initiate reduction or oxidation reaction.
 
 ### Voltammetric cell comprises of three electrodes system:
 	
-	<table>
-  <tbody><tr>
+<table>
+	<thead>
+  <tr>
     <th>S.No.</th>
     <th>Working Electrode </th>
     <th>Auxiliary electrode (Counter) 
@@ -20,6 +21,8 @@ initiate reduction or oxidation reaction.
 <th>Reference electrode 
 </th>
   </tr>
+  </thead>
+  <tbody>
   <tr>
     <td>1.</td>
     <td>Various geometries &amp; material from small Hg drops to flat Pt disks </td>
