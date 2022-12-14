@@ -32,8 +32,11 @@ initiate reduction or oxidation reaction.
   <tr>
     <td>2.</td>
     <td>Mainly used materials Au, Pt, Glassy carbon electrode</td>
-    <td></td>
+    <td>
+	</td>
 	    <td>Measuring &amp; controlling of working electrode potential.</td>
   </tr>
+</tbody>
+</table>
 
-</tbody></table>
+
