@@ -1,39 +1,95 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
+    "version": 2.0,
+    "questions": [{
+            "question": "Q1. Voltammetric technique described as a function of",
+            "answers": {
+                "a": "current, voltage",
+                "b": "time, current",
+                "c": "voltage, time",
+                "d": "current, voltage, time"
+            },
+            "correctAnswer": "d"
+        }, {
+            "question": "Q2. In voltammetric technique",
+            "answers": {
+                "a": "applied voltage varies with current voltage",
+                "b": "current & voltage varies with time",
+                "c": "current is monitor when voltage is varied",
+                "d": "current does not affect with varies voltage"
+            },
+            "correctAnswer": "c"
+        }, {
+            "question": "Q3. Voltammetric techniques are of .......types",
+            "answers": {
+                "a": "11",
+                "b": "9",
+                "c": "10",
+                "d": "7"
+            },
+            "correctAnswer": "d"
+        }, {
+            "question": "Q4. Voltammetric technique principle based on",
+            "answers": {
+                "a": "Ohm’s Law",
+                "b": "Faraday’s Law",
+                "c": "Kohlrausch Law",
+                "d": "Kirchoff’s Law"
+            },
+            "correctAnswer": "a"
+        }, {
+            "question": "Q5.  Potential in cyclic voltammetry is:",
+            "answers": {
+                "a": "Dependent variable",
+                "b": "Independent variable",
+                "c": "Constant",
+                "d": "None of the above"
+            },
+            "correctAnswer": "b"
+        }, {
+            "question": "Q6. Which of the following electrode is not used in voltammetry?",
+            "answers": {
+                "a": "Working Electrode",
+                "b": "Auxillary electrode",
+                "c": "Reference electrode",
+                "d": "Conducting electrode"
+            },
+            "correctAnswer": "d"
+        }, {
+            "question": "Q7. What are the common parameter involves in voltammetry?",
+            "answers": {
+                "a": "Potential and current",
+                "b": "Potential and resistance",
+                "c": "Current and resistance",
+                "d": "Current and electrodes"
+            },
+            "correctAnswer": "a"
+        }, {
+            "question": "Q8. Except---------------, not involve in migrations of particles in the solutions in voltammetry",
+            "answers": {
+                "a": "Migration",
+                "b": "Immigration",
+                "c": "Convection",
+                "d": "Diffusion"
+            },
+            "correctAnswer": "b"
+        }, {
+            "question": "Q9. Which of the following electrodes are often used as counter or auxiliary electrode in voltammetry?",
+            "answers": {
+                "a": "Calomel electrode",
+                "b": "Carbon paste",
+                "c": "Platinum wire",
+                "d": "Mercury thin film"
+            },
+            "correctAnswer": "c"
+        }, {
+            "question": "Q10. Which of the following voltammetric techniques enhances the sensitivity through improving the faradaic current?",
+            "answers": {
+                "a": "Differential pulse voltammetry",
+                "b": "Square wave voltammetry",
+                "c": "Cyclic voltammetry",
+                "d": "Stripping voltammetry"
+            },
+            "correctAnswer": "b"
+        }
+    ]
 }
