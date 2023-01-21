@@ -1,39 +1,95 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
+    "version": 2.0,
+    "questions": [{
+            "question": "Q1. The relationship between the limiting current and concentration of the analyte is given by:",
+            "answers": {
+                "a": "Ilkovic equation",
+                "b": "Ohm’s law",
+                "c": "Randles Sevick equation",
+                "d": "Lingane equation"
+            },
+            "correctAnswer": "a"
+        }, {
+            "question": "Q2. An electronic device that maintains the potential of a working electrode at constant level is called",
+            "answers": {
+                "a": "Potentiostat",
+                "b": "Galvanostat",
+                "c": "Amperostat",
+                "d": "Potentiometer"
+            },
+            "correctAnswer": "a"
+        }, {
+            "question": "Q3. Faraday’s law relates the number of moles of the analyte to the :",
+            "answers": {
+                "a": "Voltage",
+                "b": "Charge",
+                "c": "Current",
+                "d": "Volume"
+            },
+            "correctAnswer": "b"
+        }, {
+            "question": "Q4. Negative current is called",
+            "answers": {
+                "a": "Anodic",
+                "b": "Cathodic",
+                "c": "Electrons",
+                "d": "Holes"
+            },
+            "correctAnswer": "b"
+        }, {
+            "question": "Q5. Reduction reaction produces ---------------- current:",
+            "answers": {
+                "a": "Constant",
+                "b": "Cathodic",
+                "c": "Anodic",
+                "d": "Controlled"
+            },
+            "correctAnswer": "b"
+        }, {
+            "question": "Q6. The potential at I1/2 is called",
+            "answers": {
+                "a": "Middle potential",
+                "b": "Half-wave potential",
+                "c": "Reference potential",
+                "d": "Overpotential"
+            },
+            "correctAnswer": "b"
+        }, {
+            "question": "Q7. The vital reason for choosing voltammetry instead of other methods:",
+            "answers": {
+                "a": "Stability of the method",
+                "b": "The method is reliable and sensitive",
+                "c": "Simultaneous detection of different species",
+                "d": "Wide range of applications"
+            },
+            "correctAnswer": "b"
+        }, {
+            "question": "Q8. In single cyclic voltammetry curve if the peak potential difference is 58 mV and the scan rate is proportional to the peak current this confirms that charge transfer reaction is",
+            "answers": {
+                "a": "Fast",
+                "b": "Involves one electron",
+                "c": "Irreversible",
+                "d": "All of the above"
+            },
+            "correctAnswer": "a"
+        }, {
+            "question": "Q9. If the scan rate increases in cyclic voltammetry for ferro-ferricyanide system, the magnitude of the peak current",
+            "answers": {
+                "a": "Increases",
+                "b": "Decreases",
+                "c": "Remains constant",
+                "d": "None of the above"
+            },
+            "correctAnswer": "a"
+        }, {
+            "question": "Q10. Supporting electrolyte should be",
+            "answers": {
+                "a": "Inert",
+                "b": "Highly soluble in solvent",
+                "c": "Can be purified",
+                "d": "All of the above"
+            },
+            "correctAnswer": "a"
+        }
+    ]
 }
