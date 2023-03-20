@@ -128,6 +128,9 @@ $(document).ready(function(){
 		    
     });
 	$("#c1").click(function(){
+	    $("#success1").text("");
+		$("#success2").text("");
+		$("#success3").text("");
 		window.scrollTo(0, 0);
     	$(".followstep4").removeClass("active");
 		$(".followstep5").addClass("active");
@@ -158,12 +161,16 @@ $(document).ready(function(){
             }, 8000);
 		 setTimeout(function() {
 		        $("#success1").show();
+				$("#success1").text("Switch on potentiostat instrumet!");
 		   }, 6000);
 			
 			
 
     });
 	$("#g1").click(function(){
+	    $("#success1").text("");
+		$("#success2").text("");
+		$("#success3").text("");
 		$("#g121").show();
 		$("#g12").hide();
 		window.scrollTo(0, 0);
@@ -193,11 +200,15 @@ $(document).ready(function(){
             }, 8000);
 			 setTimeout(function() {
 		        $("#success2").show();
+				$("#success2").text("Switch on potentiostat instrumet!");
 		   }, 6000);
 			
 
   });
 		$("#b1").click(function(){
+		$("#success1").text("");
+		$("#success2").text("");
+		$("#success3").text("");
 		$("#b121").show();
 		$("#b12").hide();
 		window.scrollTo(0, 0);
@@ -227,6 +238,8 @@ $(document).ready(function(){
             }, 8000);
 			 setTimeout(function() {
 		        $("#success3").show();
+				$("#success3").text("Switch on potentiostat instrumet!");
+				
 		   }, 6000);
 			
 			
@@ -235,6 +248,9 @@ $(document).ready(function(){
     });
 		$("#rank").click(function(){
 		$("#success1").hide();
+		$("#success1").text("");
+		$("#success2").text("");
+		$("#success3").text("");
 		$(".blink").hide();
 		  $("#success2").hide();
 		   $("#success3").hide();
@@ -1042,13 +1058,17 @@ $(document).ready(function(){
 };
 $("#chartContainer2").CanvasJSChart(options);
 	 setTimeout(function() {
-		        $("#success1").text("Done");
+		        $("#success1").text("");
 				$("#success2").text("Done");
-				$("#success3").text("Done");
+				$("#success3").text("");
+				$("#success2").show();
 		   }, 11000);			
     });
 	$("#rank0").click(function(){
 	$("#number1").show();
+	 $("#success1").text("");
+		$("#success2").text("");
+		$("#success3").text("");
 	      $(".blink").hide();
 	        setTimeout(function() {
 		        $("#number1").text("0.01");
@@ -1856,12 +1876,16 @@ $("#chartContainer2").CanvasJSChart(options);
 $("#chartContainer1").CanvasJSChart(options);
 	 setTimeout(function() {
 		        $("#success1").text("Done");
-				$("#success2").text("Done");
-				$("#success3").text("Done");
+				$("#success2").text("");
+				$("#success3").text("");
+				$("#success1").show();
 		   }, 11000);		
     });
 	  $("#rank1").click(function(){
 	  $("#number3").show();
+	  $("#success1").text("");
+		$("#success2").text("");
+		$("#success3").text("");
 	   setTimeout(function() {
 		        $("#number3").text("0.01");
 		   }, 1000);
@@ -2711,8 +2735,9 @@ $("#chartContainer1").CanvasJSChart(options);
 $("#chartContainer3").CanvasJSChart(options);
 
 	 setTimeout(function() {
-		        $("#success1").text("Done");
-				$("#success2").text("Done");
+		        $("#success1").text("");
+				$("#success2").text("");
+				$("#success3").show();
 				$("#success3").text("Done");
 		   }, 11000);			
     });
@@ -2967,7 +2992,7 @@ $("#chartContainer3").CanvasJSChart(options);
 			 <!-- End step2-->
 			  <!-- Begin step3-->
 			 <div id="step3" style="display:none;">
-			   <a href="javascript:void(0);" class="blink" id="cu1" style="display:none;">Step2: Paure the Pot. Ferricyanide in the Test Tube.</a>
+			   <a href="javascript:void(0);" class="blink" id="cu1" style="display:none;">Step2: Paure the Pot. Fericyanide in the Volumetric Flask.</a>
 				
 				<p>
 				<img src="" id="step3img" style="width:640px;height:480px;">
@@ -2979,7 +3004,7 @@ $("#chartContainer3").CanvasJSChart(options);
 			
 				<a href="javascript:void(0);" id="rod" class="blink" style="display:none;">Step4: Insert Reference electrode(Ag/Agcl).</a>
 				<p>
-				<img src=""  id="step4img" style="width:640px;height:480px;">
+				<img src=""  id="step4img" style="width:800px;height:480px;">
 				</p>
 			 </div>
 			 <!-- End step4-->
@@ -3046,8 +3071,8 @@ $("#chartContainer3").CanvasJSChart(options);
 			<a href="javascript:void(0);" id="cuso41n"><img src="images/plate.jpg"></a>
 			<a href="javascript:void(0);" id="saltbridagen"><img src="images/beaker.jpg" ></a>
 			
-			<a href="javascript:void(0);" id="rodn"><img src="images/referenceE.JPG"></a>
-			<a href="javascript:void(0);" id="rodn1"><img src="images/counterE.JPG"></a>
+			<a href="javascript:void(0);" id="rodn"><img src="images/reference.jpg"></a>
+			<a href="javascript:void(0);" id="rodn1"><img src="images/counter.jpg"></a>
 			<a href="javascript:void(0);" id="voltametern"><img src="images/glassy carbon.jpg"></a>
 			<p class="inlink">
 			<p class="inlink" style="margin-right: -28px;"><a href="javascript:void(0);" id="b1"><img src="images/c1.jpg"></a>GCE</p>
