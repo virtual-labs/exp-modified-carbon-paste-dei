@@ -1,4 +1,4 @@
-### To Obtain:
+## References:
 
 1. Electrochemical Methods: Fundamentals and Applications; Allen J. Bard and Larry R. Faulkner, 2nd Edition (2001), John Wiley & Sons, New York.<br>
 
