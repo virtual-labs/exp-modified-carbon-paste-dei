@@ -1,10 +1,10 @@
 ## Procedure for the experiment is as follows:
 
-(a) Pour the prepared potassium ferricyanide solution in the electro chemical cell .<br>
+(a) Pour the prepared potassium ferricyanide solution in the electrochemical cell .<br>
 
-(b) Immerse the electrodes(Ag|Agcl) ref Pt asworking & carbon as counter electrode.<br>
+(b) Immense the reference electrode(Ag/AgCl), counter electrode(Pt wire) and working electrode(GCE/Pt/Au).<br>
 
-(c) Open Nova|| interface & feed the potential range in the window.<br>
+(c) Open NOVA 1.11 interface & feed the potential range in the window.<br>
 
 (d) Analyse the CV plot.<br>
 
