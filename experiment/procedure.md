@@ -9,7 +9,7 @@
 
 ●	Electrochemical cell for measurement. <br>
 ## CV parameters:
- Initial potential: 0.0 V • Final potential: +0.6 V • Scan rate: 50–100 mV/s • Quiet time: 5–10 s
+ Initial potential: 0.0 V • Final potential: +0.6 V • Scan rate: 50–100 mV/s • Quiet time: 5–10 s.
 
 ## Procedure for the experiment is as follows:
 1.	Prepare potassium ferri/ferrocyanide electrolyte and transfer it to the electrochemical cell.<br>
