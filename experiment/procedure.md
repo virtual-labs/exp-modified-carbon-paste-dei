@@ -1,27 +1,13 @@
-### Requirements :
-●	Potentiostat/Galvanostat with CV mode and data acquisition software.<br>
-
-●	Three–electrode setup: Working electrode (GCE/Pt), Reference (Ag/AgCl/SCE), Counter (Pt wire/mesh). <br>
-
-●	Chemicals: K₃[Fe(CN)₆], K₄[Fe(CN)₆], KCl (supporting electrolyte), DI water. <br>
-
-●	Glassware: Volumetric flasks, beakers, pipettes, analytical balance. <br>
-
-●	Electrochemical cell for measurement. <br>
-## CV parameters:
- Initial potential: 0.0 V • Final potential: +0.6 V • Scan rate: 50–100 mV/s • Quiet time: 5–10 s.
-
-## Procedure for the experiment is as follows:
-1.	Prepare potassium ferri/ferrocyanide electrolyte and transfer it to the electrochemical cell.<br>
-
-2.	Clean/activate the working electrode (polish, rinse, sonicate if required).<br>
-
-3.	Deoxygenate the solution by purging with N₂/Ar for 8–12 min in a fume hood to remove dissolved oxygen that interferes with CV.<br>
-
-4.	Insert electrodes (Ag/AgCl reference, Pt counter, GCE/Pt/Au working) into the deoxygenated solution without them touching.<br>
-
-5.	Open NOVA 1.11 → set CV parameters (initial 0.0 V, final 0.6 V, scan rate 50–100 mV/s, quiet time 5 s, cycles 2–3).<br>
-
-6.	Run the CV scan and record the voltammogram.<br>
-
-7.	After completion, wash electrodes and dispose electrolyte in the designated waste container.<br>
+### Procedure:
+Requirements 
+Potassium ferricyanide, volumetric flasks, beaker, working (GCE/Pt/Au), reference (Ag/AgCl), and counter (Pt wire) electrode.
+### The procedure for the experiment is as follows:
+1.	Prepare the solution by weighing 0.32 g of potassium ferricyanide.<br>
+2.	Transfer it to a 100ml volumetric flask, and make up with distilled water.<br>
+3.	Pour the prepared potassium ferricyanide solution into the electrochemical cell.<br>
+4.	Deoxygenate the solution by purging with N₂/Ar gas for 8–12 min in a fume hood to remove dissolved oxygen that interferes with CV.<br>
+5.	Clean the electrode carefully before performing the experiment.<br>
+6.	Immense the reference electrode(Ag/AgCl), counter electrode(Pt wire), and working electrode(GCE/Pt/Au) into the deoxygenated solution.<br>
+7.	Open NOVA 1.11 interface & feed the potential range in the window.<br>
+8.	Run the CV scan and record the voltammogram.<br>
+9.	After performing the experiment, dispose solution in the specified waste container.<br>
