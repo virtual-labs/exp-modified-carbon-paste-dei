@@ -19,14 +19,14 @@
             },
             "correctAnswer": "c"
         }, {
-            "question": "Q3. Voltammetric techniques are of .......types",
+            "question": "Q3. In cyclic voltammetry, the ferricyanide system undergoes:",
             "answers": {
-                "a": "11",
-                "b": "9",
-                "c": "10",
-                "d": "7"
+                "a": "Acid–base reaction",
+                "b": "Precipitation reaction",
+                "c": "Reversible redox reaction",
+                "d": "Thermal decomposition"
             },
-            "correctAnswer": "d"
+            "correctAnswer": "c"
         }, {
             "question": "Q4. Voltammetric technique principle based on",
             "answers": {
@@ -64,7 +64,7 @@
             },
             "correctAnswer": "a"
         }, {
-            "question": "Q8. Except---------------, not involve in migrations of particles in the solutions in voltammetry",
+            "question": "Q8. Which of the following is not involved in the migration of particles in solution during voltammetry?",
             "answers": {
                 "a": "Migration",
                 "b": "Immigration",
