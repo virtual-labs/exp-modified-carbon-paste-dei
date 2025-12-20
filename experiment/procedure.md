@@ -1,5 +1,4 @@
-### Procedure:
-Requirements 
+### Requirements: 
 Potassium ferricyanide, volumetric flasks, beaker, working (GCE/Pt/Au), reference (Ag/AgCl), and counter (Pt wire) electrode.
 ### The procedure for the experiment is as follows:
 1.	Prepare the solution by weighing 0.32 g of potassium ferricyanide.<br>
