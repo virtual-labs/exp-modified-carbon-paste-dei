@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>Discipline | <b>Chemical Binding(Chemistry)
+<b>Discipline | <b> Chemical Sciences (Chemistry)
 :--|:--|
 <b> Lab | <b> Electroanalytical Virtual Laboratory
 <b> Experiment|  <b>Cyclic Voltammetry of ferricyanide system
