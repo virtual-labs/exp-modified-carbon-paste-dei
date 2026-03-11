@@ -1,1 +1,1 @@
-Cyclic voltammetry: ferricyanide system. 
+Cyclic voltammetry of ferrocyanide/ferricyanide redox system. 
