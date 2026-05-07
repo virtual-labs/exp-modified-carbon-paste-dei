@@ -1,1 +1,1 @@
-### Aim of the experiment
+Cyclic voltammetry of ferrocyanide/ferricyanide redox system. 

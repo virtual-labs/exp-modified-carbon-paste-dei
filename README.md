@@ -1,24 +1,24 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b> Chemical Sciences (Chemistry)
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Electroanalytical Virtual Laboratory
+<b> Experiment|  <b>Cyclic Voltammetry of ferricyanide system
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Dr. Sachin Saxena
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b> Dayalbagh Educational Institute 
+<b> Email id|     <b> sachinusic@gmail.com  
+<b> Department |  Chemistry
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 |Dinesh Kumar Verma  |Project Associate  |Chemistry  |Dayalbagh Educational Institute |dinnu.agra2011@gmail.com
+2 |Nidhi Tyagi  |Intern  |Chemistry  |Dayalbagh Educational Institute |nidhityagi0712@gmail.com
